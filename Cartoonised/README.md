@@ -20,7 +20,3 @@ regions in the image. This technique is basically used for Colour reduction in i
 1.using Cartoonise.py script.</br>
 2.using Cartoonise_kmeans.py script.</br>
 </br>
-<p>
-<img src="https://raw.githubusercontent.com/infoaryan/Cartoonise-Video/master/Bilateral_edge.png" width="400" height="350">  
-<img src="https://raw.githubusercontent.com/infoaryan/Cartoonise-Video/master/Kmeans.png" width="400" height="350">
-</p>
